@@ -1,0 +1,26 @@
+{
+    "name": "telegram",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "packageManager": "pnpm@10.8.1",
+    "dependencies": {
+      "axios": "^1.8.4",
+      "dotenv": "^16.5.0",
+      "form-data": "^4.0.2",
+      "node-fetch": "^3.3.2",
+      "telegraf": "^4.16.3"
+    },
+    "devDependencies": {
+      "@types/node": "^22.14.1",
+      "ts-node": "^10.9.2",
+      "typescript": "^5.8.3"
+    }
+  }
+  
